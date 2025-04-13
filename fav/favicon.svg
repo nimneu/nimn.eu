@@ -1,0 +1,9 @@
+<svg width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+<g>
+    <rect width="16" height="16" x="0" y="0" fill="white" />
+    <text text-anchor="start" x="1" y="7" fill="#EE2A35" font-size="8px">N</text>
+    <text text-anchor="start" x="9" y="7" fill="#009736" font-size="8px">I</text>
+    <text text-anchor="start" x="1" y="15" fill="#009736" font-size="8px">M</text>
+    <text text-anchor="start" x="9" y="15" fill="black" font-size="8px">N</text>
+</g>
+</svg>
